@@ -6,4 +6,4 @@
 [Android APK Download](http://cagdasdag.com/weather-apk.apk)
 
 ## iOS App Preview
-<img src="http://i.hizliresim.com/aXZ082.gif" alt="iOS Preview" width="300px">
+<img src="http://cagdasdag.com/weatherapp.gif" alt="iOS Preview" width="300px">
